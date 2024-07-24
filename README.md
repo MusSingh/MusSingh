@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MusSingh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on projects , hackathon
+- 💞️ I’m looking to collaborate on projects and hackathon related to web development.
 - 📫 How to reach me: muskanbharatsingh@gmail.com
-- 😄 Pronouns: Smile and work
 - ⚡ Fun fact: BE happy and make happy
 
 <!---
